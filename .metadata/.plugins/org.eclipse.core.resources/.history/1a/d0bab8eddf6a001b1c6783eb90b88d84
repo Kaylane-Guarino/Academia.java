@@ -1,0 +1,11 @@
+package br.com.academia.gui;
+
+import br.com.academia.model.*;
+import br.com.academia.*;
+
+public class FrameAcademia {
+	
+	public void criarTela{
+		
+	}
+}
